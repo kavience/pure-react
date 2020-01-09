@@ -1,5 +1,5 @@
 {
-  "name": "pure-react",
+  "name": "pure-react-cli",
   "version": "0.0.1",
   "description": "a pure react cli",
   "main": "index.js",
@@ -10,8 +10,12 @@
     "react",
     "cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavience/pure-react-cli"
+  },
   "bin": {
-    "pure-react": "index.js"
+    "pure-react-cli": "index.js"
   },
   "author": "kavience",
   "license": "MIT",
